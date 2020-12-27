@@ -150,6 +150,7 @@ const LITERAL_TYPES = {
   TSAsExpression: noop,
   TypeCastExpression: noop,
   SequenceExpression: noop,
+  ChainExpression: noop,
 };
 
 /**
